@@ -58,7 +58,7 @@ Estos componentes se integran en el **nodo central “Visual Agent”**, que eje
 ---
 
 ## Capturas de Pantalla
-![Flujo en Dataiku](auditoria_agil.png)  
+![Flujo en Dataiku](flujo_rrhh_agent.png)  
 _Estructura visual del proyecto en Dataiku DSS._
 
 ---
